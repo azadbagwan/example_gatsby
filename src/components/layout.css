@@ -201,6 +201,13 @@ html {
 *:after {
   box-sizing: inherit;
 }
+.logo {
+  width: 100px;
+  height: 100px;
+}
+.backbanner {
+  background-image: url("../images/banner.png");
+}
 body {
   color: hsla(0, 0%, 0%, 0.8);
   font-family: georgia, serif;
