@@ -30,9 +30,22 @@ const IndexPage = () => (
         <p>The main gym info</p>
       </div>
     </GalleryWrapper>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <<h1>Ak's Fitness Club</h1>
+    <p>
+      Ak's Fitness Club is one of the best fitness club in pune.
+      <br />
+      We are dedicated group of Qualified professioals with passion for helpinf
+      every one achieve there fitness goals.
+    </p>
+    <p>
+      Ak's fitness club is most affordable place for passionate people where you
+      will be around people who love to help. <br />
+      we provide wide range of equipements and machines for you to use. with our
+      experienced trainers everyone gets the guidance and traininig they need,
+      <br />
+      After all Gym is not a social club for just the ones who are already fit,
+      but a place for all to train.
+    </p>
 
     <Gallery />
   </Layout>
