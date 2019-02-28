@@ -30,7 +30,7 @@ const IndexPage = () => (
         <p>The main gym info</p>
       </div>
     </GalleryWrapper>
-    <<h1>Ak's Fitness Club</h1>
+    <h1>Ak's Fitness Club</h1>
     <p>
       Ak's Fitness Club is one of the best fitness club in pune.
       <br />
